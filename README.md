@@ -8,7 +8,7 @@ Complex problem-solver with analytical and driven mindset. Dedicated to achievin
 </td>
 </tr>
 </table>
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 | Skills |  |
 | ----------- | ----------- |
 | HTML5 | MongoDB |
