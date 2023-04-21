@@ -9,10 +9,14 @@ Complex problem-solver with analytical and driven mindset. Dedicated to achievin
 </tr>
 </table>
 
-| Syntax | Description |
+| Skills |  |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| HTML5 | MongoDB |
+| CSS | Express |
+| Javascript | Heroku |
+| Node.js| RESTful API |
+| Django | Python |
+| Git | PostgreSql |
 <!--
 **Arjybltrn/arjybltrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
