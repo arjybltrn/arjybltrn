@@ -13,6 +13,7 @@ Complex problem-solver with analytical and driven mindset. Dedicated to achievin
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
+
 | Skills |  |
 | ----------- | ----------- |
 | HTML5 | MongoDB |
