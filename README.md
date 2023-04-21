@@ -14,7 +14,7 @@ Complex problem-solver with analytical and driven mindset. Dedicated to achievin
   </a>
 </p>
 
-| Skills stack|  |
+| Skills/Tools |
 | ----------- | ----------- |
 | HTML5 | MongoDB |
 | CSS | Express |
