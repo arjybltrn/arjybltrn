@@ -22,6 +22,10 @@ Complex problem-solver with analytical and driven mindset. Dedicated to achievin
 | Git        | Heroku      |
 | Django     | MongoDB     |
 | Python     |             |
+
+## Projects
+
+
 <!--
 **Arjybltrn/arjybltrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
