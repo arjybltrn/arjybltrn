@@ -15,7 +15,6 @@ Complex problem-solver with analytical and driven mindset. Dedicated to achievin
 </p>
 
 | Skills/Tools |
-| ----------- | ----------- |
 | HTML5 | MongoDB |
 | CSS | Express |
 | Javascript | Heroku |
