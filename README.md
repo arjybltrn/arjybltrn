@@ -1,13 +1,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjybltrn&label=Profile%20views&color=0e75b6&style=flat" alt="arjybltrn"/> </p>
 
-##  Hello! fellow tech adventurer! 👋
+##  Hello, World! 👋
+
+<kbd> <br> 🔭 currently working on - flowerbox. - Online Flower Shop <br> </kbd>
+
+<kbd> <br> 🌱 currently learning - React Native - Online Flower Shop <br> </kbd>
+
+<kbd> <br> 👨‍💻 view all my projects <a href="https://arjaybeltran.vercel.app/">here</a> <br> </kbd>
 
 
-🔭 currently working on - flowerbox. - Online Flower Shop
-
-🌱 currently learning - React Native
-
-👨‍💻 view all my projects <a href="https://arjaybeltran.vercel.app/">here</a>
 
 
 <hr>
