@@ -36,6 +36,10 @@ Complex problem-solver with analytical and driven mindset. Dedicated to achievin
 
 <a href="https://choruso.herokuapp.com/" target="_blank"><span style="font-family:Source Code Pro">Choruso - Music Player</span></a>
 
+<a href="https://legendary-halva-8abb3f.netlify.app/" target="_blank"><span style="font-family:Source Code Pro">Trackly - Job Application Tracker</span></a>
+
+<a href="https://flowerbox.vercel.app/" target="_blank"><span style="font-family:Source Code Pro">flowerbox. - Online Flower Shop</span></a>
+
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=Arjybltrn)](#)
 
