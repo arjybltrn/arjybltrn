@@ -10,13 +10,13 @@
 👨‍💻 view all my projects <a href="https://arjaybeltran.vercel.app/">here</a>
 
 
-
+<hr>
 
 <table>
 <tr>
 <td>
   
-<hr>
+
   
 ### // about
   
