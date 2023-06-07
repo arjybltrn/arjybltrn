@@ -60,9 +60,9 @@ When I'm not coding, you can find me pursuing my hobbies. I'm passionate about p
 
 
 
-<p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=arjybltrn" alt="arjybltrn" width="500" height="500" /></a> </p>
+<!-- <p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=arjybltrn&column=3&margin-w=15&margin-h=15&row=2&column=3" alt="arjybltrn" width="500" height="500" /></a> </p> -->
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=arjybltrn&column=3&margin-w=15&margin-h=15&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- <h3 align="left">Languages and Tools:</h3>
 
@@ -181,14 +181,22 @@ When I'm not coding, you can find me pursuing my hobbies. I'm passionate about p
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjybltrn&show_icons=true&locale=en&layout=compact" alt="arjybltrn" width="350" height="160" /></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjybltrn&show_icons=true&locale=en" alt="arjybltrn" width="350" height="160"/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjybltrn&" alt="arjybltrn" width="350" height="160"/></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjybltrn&show_icons=true&locale=en&layout=compact" alt="arjybltrn" width="350" height="160" /></p>
+
+
+
+
+<hr>
+
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<p>
 <a href="https://codepen.io/arjybltrn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="arjybltrn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arjaybeltran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjaybeltran" height="30" width="40" /></a>
 <a href="https://codesandbox.com/arjybltrn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="arjybltrn" height="30" width="40" /></a>
