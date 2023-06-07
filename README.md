@@ -58,11 +58,15 @@ When I'm not coding, you can find me pursuing my hobbies. I'm passionate about p
 
 <a href="https://flowerbox.vercel.app/" target="_blank"><span style="font-family:Source Code Pro">flowerbox. - Online Flower Shop</span></a>
 
+<hr>
+
 
 
 <!-- <p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=arjybltrn&column=3&margin-w=15&margin-h=15&row=2&column=3" alt="arjybltrn" width="500" height="500" /></a> </p> -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=arjybltrn&column=3&margin-w=15&margin-h=15&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+<hr>
 
 <!-- <h3 align="left">Languages and Tools:</h3>
 
