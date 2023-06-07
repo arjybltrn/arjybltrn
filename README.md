@@ -37,7 +37,7 @@ Complex problem-solver with analytical and driven mindset. Dedicated to achievin
 <a href="https://choruso.herokuapp.com/" target="_blank"><span style="font-family:Source Code Pro">Choruso - Music Player</span></a>
 
 
-
+[![Arjay's GitHub stats](https://github-readme-stats.vercel.app/api?Arjybltrn=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Arjybltrn/arjybltrn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
