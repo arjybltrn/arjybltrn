@@ -16,6 +16,13 @@ When I'm not coding, you can find me pursuing my hobbies. I'm passionate about p
 </td>
 </tr>
 </table>
+
+<hr>
+
+## Arjay Beltran | <a href="https://arjaybeltran.vercel.app/">Portfolio</a>
+
+<hr>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,django,git,heroku,express,mongodb,postgres&perline=3" />
