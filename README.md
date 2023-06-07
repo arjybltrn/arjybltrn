@@ -1,5 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjybltrn&label=Profile%20views&color=0e75b6&style=flat" alt="arjybltrn"/> </p>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mr7m39tkfvak3ajrv9xg5sck8&cover_image=true&theme=novatorem&show_offline=false&background_color=7f7a7a&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 ##  Hello, Tech World! 👋
 
 <kbd> <br> 🔭 currently working on - flowerbox. - Online Flower Shop <br> </kbd>
