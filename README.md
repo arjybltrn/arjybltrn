@@ -67,7 +67,7 @@ When I'm not coding, you can find me pursuing my hobbies. I'm passionate about p
 
 <!-- <p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=arjybltrn&column=3&margin-w=15&margin-h=15&row=2&column=3" alt="arjybltrn" width="500" height="500" /></a> </p> -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=arjybltrn&column=3&margin-w=15&margin-h=15&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=arjybltrn&column=3&margin-w=15&margin-h=15&row=2&column=3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr>
 
