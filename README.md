@@ -13,13 +13,11 @@
 
 <hr>
 
+### // about
+
 <table>
 <tr>
 <td>
-  
-
-  
-### // about
   
 I'm a recent graduate from a bootcamp, General Assembly. Transitioned from Home Renovation to Software Engineering driven by curiosity and problem-solving. 
   
