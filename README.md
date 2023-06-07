@@ -16,6 +16,8 @@
 <tr>
 <td>
   
+<hr>
+  
 ### // about
   
 I'm a recent graduate from a bootcamp, General Assembly. Transitioned from Home Renovation to Software Engineering driven by curiosity and problem-solving. 
@@ -42,6 +44,8 @@ When I'm not coding, you can find me pursuing my hobbies. I'm passionate about p
     <img src="https://skillicons.dev/icons?i=js,python,html,css,svelte,bootstrap,sass,tailwind,nodejs,express,react,mongodb,mysql,postgres,sqlite,aws,firebase,heroku,django,postman,figma,nextjs&perline=5" />
   </a>
 </p>
+
+<hr>
 
 
 ## // projects.
