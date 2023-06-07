@@ -4,7 +4,7 @@
 
 <kbd> <br> 🔭 currently working on - flowerbox. - Online Flower Shop <br> </kbd>
 
-<kbd> <br> 🌱 currently learning - React Native - Online Flower Shop <br> </kbd>
+<kbd> <br> 🌱 currently learning - React Native <br> </kbd>
 
 <kbd> <br> 👨‍💻 view all my projects <a href="https://arjaybeltran.vercel.app/">here</a> <br> </kbd>
 
