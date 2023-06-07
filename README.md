@@ -1,10 +1,18 @@
-### Hi there 👋
+###  Hello! fellow tech adventurer! 👋
 
 
 <table>
 <tr>
 <td>
-Complex problem-solver with analytical and driven mindset. Dedicated to achieving demanding development objectives according to tight schedules while producing impeccable code.
+I transitioned from Home Renovation to Software Engineering driven by curiosity and problem-solving. 
+  
+Proficient in JavaScript, Express, Node.js, Python, React, HTML, CSS, MVC framework, and REST APIs, I excel in collaboration and efficient code management using Git.
+
+With a solid foundation in software development principles, project management, and attention to detail from my background, I bring a unique perspective to finding innovative solutions. As a lifelong learner, I adapt swiftly, stay updated on industry trends, and thrive in collaborative environments.
+
+Effective communication and teamwork are natural strengths of mine, making me an ideal, results-oriented software engineer ready to make a meaningful impact.
+
+When I'm not coding, you can find me pursuing my hobbies. I'm passionate about playing basketball and enjoying online games, and spending time with my dog. These activities help me unwind and foster a balance between work and leisure.
 </td>
 </tr>
 </table>
@@ -26,12 +34,9 @@ Complex problem-solver with analytical and driven mindset. Dedicated to achievin
 ## Projects/Websites
 
 
-<a href="https://docket-project-two.herokuapp.com/" target="_blank"><span style="font-family:Source Code Pro">**docket.**</span></a>
+<a href="https://docket-project-two.herokuapp.com/" target="_blank"><span style="font-family:Source Code Pro">**docket.** - To-do list</span></a>
 
-<a href="https://hello-world-rose-sigma.vercel.app/" target="_blank"><span style="font-family:Source Code Pro">// HLLO_WRLD</span></a>
-
-
-<a href="https://hedgehog-collector.herokuapp.com/" target="_blank"><span style="font-family:Source Code Pro">Hedgehog Collector</span></a>
+<a href="https://hello-world-rose-sigma.vercel.app/" target="_blank"><span style="font-family:Source Code Pro">// HLLO_WRLD - Search countries</span></a>
 
 
 <a href="https://choruso.herokuapp.com/" target="_blank"><span style="font-family:Source Code Pro">Choruso - Music Player</span></a>
