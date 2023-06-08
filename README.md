@@ -80,6 +80,8 @@ When I'm not coding, you can find me pursuing my hobbies. I'm passionate about p
   
 </details>
 
+<hr>
+
 <details>
   
   <summary> <h2> // github trophies 🏆 </h2> </summary>
