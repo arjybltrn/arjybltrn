@@ -53,7 +53,8 @@ When I'm not coding, you can find me pursuing my hobbies. I'm passionate about p
 
 
 <a href="https://docket-project-two.herokuapp.com/" target="_blank"><span style="font-family:Source Code Pro">**docket.** - To-do list </span></a> 
-<img src="https://skillicons.dev/icons?i=js,html,css,express&perline=5" />
+
+
 
 <a href="https://hello-world-rose-sigma.vercel.app/" target="_blank"><span style="font-family:Source Code Pro">// HLLO_WRLD - Search countries</span></a>
 
