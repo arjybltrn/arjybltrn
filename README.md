@@ -98,7 +98,6 @@ When I'm not coding, you can find me pursuing my hobbies. I'm passionate about p
 <p>
 
 <a href="https://linkedin.com/in/arjaybeltran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjaybeltran" height="30" width="40" /></a>
-
 <a href="https://instagram.com/arjybltrn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arjybltrn" height="30" width="40" /></a>
 </p>
  
