@@ -21,7 +21,7 @@
 <tr>
 <td>
   
-I'm a recent graduate from a bootcamp, General Assembly. Transitioned from Home Renovation to Software Engineering driven by curiosity and problem-solving. 
+Transitioned from Home Renovation to Software Engineering driven by curiosity and problem-solving. 
   
 Proficient in JavaScript, Express, Node.js, Python, React, HTML, CSS, MVC framework, and REST APIs, I excel in collaboration and efficient code management using Git.
 
