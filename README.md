@@ -4,7 +4,7 @@
 
 ##  Hello, Tech World! 👋
 
-<kbd> <br> 🔭 currently working on - DoneWithIt - Online Marketplace for Pre-loved items <br> </kbd>
+<kbd> <br> 🔭 currently working on - <a href="https://github.com/Arjybltrn/DoneWithIt.git"> DoneWithIt - Online Marketplace for Pre-loved items </a> <br> </kbd> 
 
 <kbd> <br> 🌱 currently learning - React Native <br> </kbd>
 
