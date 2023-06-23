@@ -42,7 +42,7 @@ When I'm not coding, you can find me pursuing my hobbies. I'm passionate about p
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,html,css,svelte,bootstrap,sass,tailwind,nodejs,express,react,mongodb,mysql,postgres,sqlite,aws,firebase,heroku,django,postman,figma,nextjs&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,python,html,css,bootstrap,sass,tailwind,nodejs,express,react,mongodb,mysql,postgres,sqlite,aws,firebase,heroku,django,postman,figma,nextjs&perline=5" />
   </a>
 </p>
 
