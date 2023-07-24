@@ -4,9 +4,11 @@
 
 ##  Hello, Tech World! 👋
 
+<!-- 
 <kbd> <br> 🔭 currently working on - <a href="https://github.com/Arjybltrn/DoneWithIt.git"> DoneWithIt - Online Marketplace for Pre-loved items </a> <br> </kbd> 
+-->
 
-<kbd> <br> 🌱 currently learning - React Native <br> </kbd>
+<kbd> <br> 🌱 currently learning - elementsofai.com <br> </kbd>
 
 <kbd> <br> 👨‍💻 view all my projects <a href="https://arjaybeltran.vercel.app/">here</a> <br> </kbd>
 
