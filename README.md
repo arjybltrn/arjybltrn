@@ -2,7 +2,7 @@
 
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mr7m39tkfvak3ajrv9xg5sck8&cover_image=true&theme=novatorem&show_offline=false&background_color=7f7a7a&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) -->
 
-##  Hello, Tech World! 👋
+##  Hello, I'm Arjay!
 
 <!-- 
 <kbd> <br> 🔭 currently working on - <a href="https://github.com/Arjybltrn/DoneWithIt.git"> DoneWithIt - Online Marketplace for Pre-loved items </a> <br> </kbd> 
@@ -17,41 +17,23 @@
 
 <hr>
 
-### // about
-
-<table>
-<tr>
-<td>
-  
-Transitioned from Home Renovation to Software Engineering driven by curiosity and problem-solving. 
-  
-Proficient in JavaScript, Express, Node.js, Python, React, HTML, CSS, MVC framework, and REST APIs, I excel in collaboration and efficient code management using Git.
-
-With a solid foundation in software development principles, project management, and attention to detail from my background, I bring a unique perspective to finding innovative solutions. As a lifelong learner, I adapt swiftly, stay updated on industry trends, and thrive in collaborative environments.
-
-Effective communication and teamwork are natural strengths of mine, making me an ideal, results-oriented software engineer ready to make a meaningful impact.
-
-When I'm not coding, you can find me pursuing my hobbies. I'm passionate about playing basketball and enjoying online games, and spending time with my dog. These activities help me unwind and foster a balance between work and leisure.
-</td>
-</tr>
-</table>
-
-<hr>
 
 
-## // tech stack
+
+
+##  tech stack.
 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,html,css,bootstrap,sass,tailwind,nodejs,express,react,mongodb,mysql,postgres,sqlite,aws,firebase,heroku,django,postman,figma,nextjs&perline=5" />
+    <img src="https://skillicons.dev/icons?i=js,python,html,css,bootstrap,sass,tailwind,nodejs,express,react,mongodb,mysql,postgres,aws,firebase,heroku,django,postman,figma,nextjs&perline=5" />
   </a>
 </p>
 
 <hr>
 
 
-## // projects.
+##  projects.
 
 
 <a href="https://docket-project-two.herokuapp.com/" target="_blank"><span style="font-family:Source Code Pro">**docket.** - To-do list </span></a> 
@@ -72,7 +54,7 @@ When I'm not coding, you can find me pursuing my hobbies. I'm passionate about p
 
 
 <details>
-  <summary> <h2> // github stats ⚡ </h2></summary>
+  <summary> <h2> github stats ⚡ </h2></summary>
   
   <a href="#">![Github Stats 📊](https://github-readme-stats.vercel.app/api?username=arjybltrn&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs 📚](https://github-readme-stats.vercel.app/api/top-langs/?username=arjybltrn&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
@@ -86,7 +68,7 @@ When I'm not coding, you can find me pursuing my hobbies. I'm passionate about p
 
 <details>
   
-  <summary> <h2> // github trophies 🏆 </h2> </summary>
+  <summary> <h2> github trophies 🏆 </h2> </summary>
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=arjybltrn&column=3&margin-w=15&margin-h=15&row=2&column=3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
